@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1507780919 source:/home/mohab/Documents/OS/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<wait.h>
+	<sys/types.h>
+	<unistd.h>
+	<signal.h>
+	<ctype.h>
+	<dirent.h>
+	"logging.h"
+	"parsing.h"
+
+1507780963 source:/home/mohab/Documents/OS/logging.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<wait.h>
+	<sys/types.h>
+	<unistd.h>
+	<signal.h>
+	<ctype.h>
+	<dirent.h>
+	"logging.h"
+
+1507778828 /home/mohab/Documents/OS/logging.h
+
+1507778777 /home/mohab/Documents/OS/parsing.h
+
+1507780944 source:/home/mohab/Documents/OS/parsing.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<wait.h>
+	<sys/types.h>
+	<unistd.h>
+	<signal.h>
+	<ctype.h>
+	<dirent.h>
+	"parsing.h"
+
